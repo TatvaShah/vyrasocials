@@ -1,0 +1,251 @@
+{
+ "/images/aurea-poster.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/aurea-poster.e674e60f37",
+  "stamp": "e674e60f37"
+ },
+ "/images/aurea-recap.jpg": {
+  "w": 1440,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/aurea-recap.b803f2706b",
+  "stamp": "b803f2706b"
+ },
+ "/images/aurea-teaser.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/aurea-teaser.032be50771",
+  "stamp": "032be50771"
+ },
+ "/images/coffee-yacht-poster.jpg": {
+  "w": 1402,
+  "h": 1753,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1402
+  ],
+  "base": "/images/_opt/coffee-yacht-poster.c34e36fecd",
+  "stamp": "c34e36fecd"
+ },
+ "/images/halloweekend-collab.jpg": {
+  "w": 1080,
+  "h": 1440,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/halloweekend-collab.fbd73b200a",
+  "stamp": "fbd73b200a"
+ },
+ "/images/halloweekend-reel.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/halloweekend-reel.2f30970c43",
+  "stamp": "2f30970c43"
+ },
+ "/images/nazar-red-room-weekend.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/nazar-red-room-weekend.2ad061c066",
+  "stamp": "2ad061c066"
+ },
+ "/images/red-room-aftermovie.jpg": {
+  "w": 1014,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1014
+  ],
+  "base": "/images/_opt/red-room-aftermovie.1719dc44d8",
+  "stamp": "1719dc44d8"
+ },
+ "/images/red-room-dancefloor.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/red-room-dancefloor.594e69c716",
+  "stamp": "594e69c716"
+ },
+ "/images/red-room-movie-set.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/red-room-movie-set.00ab84b122",
+  "stamp": "00ab84b122"
+ },
+ "/images/red-room-portrait.jpg": {
+  "w": 1178,
+  "h": 1570,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1178
+  ],
+  "base": "/images/_opt/red-room-portrait.83b52ec7b1",
+  "stamp": "83b52ec7b1"
+ },
+ "/images/red-room-poster.jpg": {
+  "w": 1136,
+  "h": 1392,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1136
+  ],
+  "base": "/images/_opt/red-room-poster.bf4a71eddb",
+  "stamp": "bf4a71eddb"
+ },
+ "/images/red-room-promo.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/red-room-promo.eb42cbc75a",
+  "stamp": "eb42cbc75a"
+ },
+ "/images/red-room-recap.jpg": {
+  "w": 1451,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1451
+  ],
+  "base": "/images/_opt/red-room-recap.b66495d3ad",
+  "stamp": "b66495d3ad"
+ },
+ "/images/red-room-reel.jpg": {
+  "w": 720,
+  "h": 1280,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   720
+  ],
+  "base": "/images/_opt/red-room-reel.5b90dc9325",
+  "stamp": "5b90dc9325"
+ },
+ "/images/red-room-trio.jpg": {
+  "w": 1440,
+  "h": 1800,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1440
+  ],
+  "base": "/images/_opt/red-room-trio.09472e9838",
+  "stamp": "09472e9838"
+ }
+}
